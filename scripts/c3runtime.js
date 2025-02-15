@@ -1421,6 +1421,7 @@ self.C3_ExpressionFuncs = [
 		},
 		() => 1,
 		() => "muzik",
+		() => -5,
 		() => 0,
 		() => "bilgi",
 		() => "background",
